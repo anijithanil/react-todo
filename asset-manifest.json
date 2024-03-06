@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anijithanil/react-todo.git/static/css/main.dc8ef182.css",
+    "main.js": "/anijithanil/react-todo.git/static/js/main.9f067844.js",
+    "index.html": "/anijithanil/react-todo.git/index.html",
+    "main.dc8ef182.css.map": "/anijithanil/react-todo.git/static/css/main.dc8ef182.css.map",
+    "main.9f067844.js.map": "/anijithanil/react-todo.git/static/js/main.9f067844.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc8ef182.css",
+    "static/js/main.9f067844.js"
+  ]
+}
